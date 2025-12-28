@@ -1,5 +1,5 @@
 # Dice Rolls CS-Principles
-This Snap! program rolls 100 random dice on start.
+This Snap! program rolls 100 random dice on start. This is my fifth Snap! project for CS Principles.
 
 #### How I Made it
 This was a self-lead project, meaning I had to figure it out myself. At first I tried just adding a Dice Rolls variable with a list, and then a 100 repeat loop with a "set Dice Rolls to pick random 1-10. This didn't work. I then decided to make a random number variable and then change that in the repeat loop using the random number function, then I added the Random Number variable to the Dice Rolls variable using an add to list block. My final problem was figuring out how to have the list start without any entries. I just added a delete all in list block, but it was just a workaround (it is good for resetting the list on start though, which is something I needed!). It took me a second to realize I could click the left arrow on the list block to remove the first list item. ^^" Finally, I changed the random numbers to 1-6 to better match your typical real life die.
